@@ -46,7 +46,7 @@ The single-depot, capacity-140 result (203.98) matches Barreto's published prove
 
 ## How to Run
 
-1. Open `location_routing.ipynb` in Google Colab.
+1. Open `location_routing_optimization.ipynb` in Google Colab.
 2. Install dependencies: `!pip install ortools`
 3. Upload `Perl83Cli12x2` and `Perl83Dep12x2` (included in `/data`) to the Colab environment.
 4. Run all cells in order.
